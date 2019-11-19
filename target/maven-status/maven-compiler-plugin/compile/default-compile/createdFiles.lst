@@ -1,0 +1,5 @@
+co/ga/bookstore/Book.class
+co/ga/bookstore/SwaggerConfig.class
+co/ga/bookstore/DatabaseLoader.class
+co/ga/bookstore/BookRepository.class
+co/ga/bookstore/BookstoreApplication.class
